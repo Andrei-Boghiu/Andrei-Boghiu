@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development, Python and Kali OS
 - 🌱 I’m currently learning JavaScript and Kali OS
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can write to me on [Linkedin](https://linkedin.com/id/andreiboghiu)
+- 📫 You can write to me on [Linkedin](https://linkedin.com/in/andreiboghiu)
