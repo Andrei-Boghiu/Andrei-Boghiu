@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Node.js and Kali OS
 - 💻 I'm currently working with JavaScript, SQL
 - 💞️ I’m looking to collaborate on... taking over the world. 
-- 📫 You can write to me on [Linkedin](https://linkedin.com/in/andreiboghiu)
+- 📫 Contact me on [Linkedin](https://linkedin.com/in/andreiboghiu)
