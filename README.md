@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Andrew<br>👀 I’m interested in Full Stack Web Development<br>💻 I'm currently working with JavaScript/Node.JS/React.js<br>🌱 I’m currently learning Linux<br>⚡ I'm a night owl 
+👋 Hi, I’m Andrew<br>👀 I’m interested in Full Stack Web Development<br>💻 I'm currently working with JavaScript/Node.JS/React.js/Next.js<br>🌱 I’m currently learning Linux<br>⚡ I'm a night owl 
 
 
 ## 🌐 Socials:
