@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 Available for Freelance Work<br>💻 Working with TypeScript/NestJS/ReactJS/NextJS<br>🌱 Learning Linux/ML/AI/<br>⚡ Night Owl & Metal Head
+📌 Available for <a href="https://www.linkedin.com/in/andreiboghiu/" target="_blank" rel="noopener noreferrer">Freelance Work</a> <br>💻 Working with TypeScript/NestJS/ReactJS/NextJS<br>🌱 Learning Linux/ML/AI/<br>⚡ Night Owl & Metal Head
 
 
 # 💻 Tech Stack:
